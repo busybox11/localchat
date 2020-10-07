@@ -1,0 +1,1 @@
+print('localchat CLI interface')
